@@ -7,7 +7,7 @@ Material and source code for the scFAIR manuscript
 
 📅Data: See [data/](./data/)
 
-📊Data explorer: TBD
+📊Web portal: [sc-fair.org](https://sc-fair.org/) (Sources: [git repo](https://github.com/DeplanckeLab/scfair))
 
 # Citation
 
