@@ -17,5 +17,9 @@ samap/genome/*.nto
 # Ignore raw fasta used by BLAST within SAMap
 samap/genome/*.fa
 
+# Ignore output of TBLASTX within SAMap (too big)
+samap/maps/mmhs/hs_to_mm.txt
+samap/maps/mmhs/mm_to_hs.txt
+
 # Pickle tmp files
 samap/output/*.pkl
