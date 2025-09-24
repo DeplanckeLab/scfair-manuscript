@@ -1,7 +1,21 @@
-# Downloaded atlases
+# Ignore downloaded atlases
 data/*.h5ad
 
-# Jupyter notebooks temporary sessions
+# Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
+# Ignore indexed fasta used by BLAST within SAMap
+samap/genome/*.ndb
+samap/genome/*.nhr
+samap/genome/*.nin
+samap/genome/*.njs
+samap/genome/*.not
+samap/genome/*.nsq
+samap/genome/*.ntf
+samap/genome/*.nto
 
+# Ignore raw fasta used by BLAST within SAMap
+samap/genome/*.fa
+
+# Pickle tmp files
+samap/output/*.pkl
