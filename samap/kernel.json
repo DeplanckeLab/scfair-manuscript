@@ -1,0 +1,22 @@
+{
+ "argv": [
+  "docker",
+  "run",
+  "--rm",
+  "--network=host",
+  "-v",
+  "{connection_file}:/connection-spec",
+  "-v",
+  "/home:/home",
+  "-v",
+  "/data:/data",
+  "samap:latest",
+  "python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "/connection-spec"
+ ],
+ "display_name": "SAMap (Python v3.10)",
+ "language": "python"
+}
