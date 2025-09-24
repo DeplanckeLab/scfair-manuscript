@@ -1,6 +1,14 @@
 # scFAIR manuscript
 Material and source code for the scFAIR manuscript
 
+📰Manuscript: TBD
+
+📜Preprint: TBD
+
+📅Data: See [data/](./data/)
+
+📊Data explorer: TBD
+
 # Citation
 
 # I. Manuscript Figures
