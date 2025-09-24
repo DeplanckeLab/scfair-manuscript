@@ -1,0 +1,7 @@
+# Downloaded atlases
+data/*.h5ad
+
+# Jupyter notebooks temporary sessions
+.ipynb_checkpoints/
+
+
