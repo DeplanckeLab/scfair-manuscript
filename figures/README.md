@@ -1,5 +1,7 @@
 ## Notebooks/scripts that reproduce each figure panel
 
+Note: This is just a template for now. To be modified.
+
 <table border="1" cellspacing="100" cellpadding="0" width="100%">
   <thead>
     <tr>
@@ -30,3 +32,4 @@
     <tr><td>7<strong>e</strong></td><td><a href="code/10_Combinations/5-unique_state_enrichment.ipynb">10_Combinations/5-unique_state_enrichment.ipynb</a></td></tr>
   </tbody>
 </table>
+
