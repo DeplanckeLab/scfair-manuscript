@@ -1,0 +1,16 @@
+human_label	mouse_label	count
+neuron	glutamatergic neuron	51
+neuron	GABAergic neuron	28
+cell	L2/3 intratelencephalic projecting glutamatergic neuron	10
+neuron	medial ganglionic eminence derived GABAergic cortical interneuron	2
+neuron	olfactory granule cell	2
+cell	L4/5 intratelencephalic projecting glutamatergic neuron	1
+cell	L5 extratelencephalic projecting glutamatergic cortical neuron	1
+cell	olfactory granule cell	1
+neuron	Cajal-Retzius cell	1
+neuron	cerebellar granule cell	1
+neuron	cerebellum glutamatergic neuron	1
+neuron	cholinergic neuron	1
+neuron	choroid plexus epithelial cell	1
+neuron	midbrain dopaminergic neuron	1
+neuron	pinealocyte	1
